@@ -1,5 +1,5 @@
-### Hi there, visitor 👋
-# I'm Alexey, an Intelligent Automation developer at Emerson.
+## Hi there, visitor 👋
+### I'm Alexey, an Intelligent Automation developer at Emerson.
 
 <!--
 **alexey-romero/alexey-romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
